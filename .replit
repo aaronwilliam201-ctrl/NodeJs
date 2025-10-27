@@ -1,2 +1,6 @@
+entrypoint = "server.js"
+
+run = "node server.js"
+
 [agent]
 expertMode = true
